@@ -1,0 +1,20 @@
+/*
+BATC Web Essentials
+Colors: #808080, #606061, #fff, #d4d4d4
+Font: font-family: 'Raleway', sans-serif
+
+*/
+
+                            /* =========================== GENERAL =================== */
+
+body {
+    font-family: 'Raleway', sans-serif;
+    font-size: 16px;
+}
+
+                            /*============================ GLOBAL ==================== */
+h1,h2,h3,h4,h5,h6 {
+    -webkit-font-smoothing: antialiased;
+    text-rendering: optimizeLegibility;
+    font-weight: bold;
+}
